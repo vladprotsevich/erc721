@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Example1",
+        "value": "Example1"
+      },
+      {
+        "trait_type": "Example2",
+        "value": "Example2"
+      }
+    ],
+    "description": "The world's most adorable and sensitive pup.",
+    "image": "ipfs://QmWbBdt4n1aXLo1oJWzaeFCsvRiZfvcg4wrfJ5cJM9sy5U",
+    "name": "Smile"
+  }
